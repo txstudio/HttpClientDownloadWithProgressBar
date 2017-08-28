@@ -10,7 +10,7 @@ BytesTransferred|已取得位元數
 TotalBytes|總資料位元數
 ProgressPercentage|接收百分比
 
-ProgressMessageHandler 類別位於 System.Net.Http.Formatting.Extension 套件中，命名空間為 System.Net.Http.Handlers，可透過 Nuget 進行取得。
+ProgressMessageHandler 類別位於 System.Net.Http.Formatting.Extension 套件中。命名空間為 System.Net.Http.Handlers，可透過 Nuget 進行取得。
 
 ### 範例程式碼說明
 
